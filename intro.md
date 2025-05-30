@@ -1,0 +1,1 @@
+Github is a great platform for coding community to come together, work on projects without disturbing major progress on main branch. Its an interactive platform allowig growth by creating breaking and fixing codes.
